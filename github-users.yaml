@@ -1,0 +1,104 @@
+Red Hat:
+  patterns:
+    - ".*@redhat.com$"
+  users:
+    - markusthoemmes@me.com
+    - jsanda@redhat.com
+    - ben324@gmail.com
+    - vincent@sbr.pm
+    - dmcphers@redhat.com
+    - jim@crossleys.org
+    - matzew@apache.org
+    - mgencur@redhat.com
+    - swoodman@redhat.com
+    - simone.gotti@gmail.com
+IBM:
+  patterns:
+    - ".*@ibm.com$"
+  users:
+    - greg@greghaynes.net
+VMware:
+  patterns:
+    - ".*@vmware.com$"
+  users:
+    - imikushin@users.noreply.github.com
+    - bjung@vmware.com
+    - mark@peek.org
+    - neosab@users.noreply.github.com
+    - pengz@vmware.com
+Google:
+  patterns:
+    - ".*@google.com$"
+  users:
+    - mattmoor@google.com
+    - dangerd@google.com
+    - josephburnett79@gmail.com
+    - srinivashegde@google.com
+    - 4033879+mdemirhan@users.noreply.github.com
+    - evan.k.anderson@gmail.com
+    - naomi@seyfer.org
+    - jonjohnson@google.com
+    - yanweiguo@google.com
+    - conliu@google.com
+    - jasonhall@google.com
+    - christie.a.wilson@gmail.com
+    - adamharwayne@users.noreply.github.com
+    - 32305648+n3wscott@users.noreply.github.com
+    - vaikas-google@users.noreply.github.com
+    - grantr@gmail.com
+    - lorenc.d@gmail.com
+    - grayside@gmail.com
+    - rescarez@google.com
+    - akitsch@google.com
+    - 31352624+samodell@users.noreply.github.com
+    - mike.helmick@gmail.com
+    - steren.giannini@gmail.com
+    - qingyangc@google.com
+    - tejaldesai@google.com
+    - aprindle@google.com
+    - mchmarny@users.noreply.github.com
+    - priyawadhwa@google.com
+Pivotal:
+  patterns:
+    - ".*@pivotal.io$"
+  users:
+    - trisberg@pivotal.io
+    - scott@andrews.me
+    - jchester@pivotal.io
+    - dprotaso@gmail.com
+    - markfisher@users.noreply.github.com
+    - shashwathireddy@gmail.com
+    - tanzeeb@gmail.com
+    - nziada@pivotal.io
+Microsoft:
+  patterns:
+    - ".*@microsoft.com$"
+  users:
+    - kent.rancourt@microsoft.com
+Huawei:
+  patterns:
+    - ".*@huawei.com$"
+  users:
+    - lichuqiang@huawei.com
+Stark and Wayne:
+  users:
+    - drnicwilliams@gmail.com
+Triggermesh:
+  users:
+    - runseb@gmail.com
+Unknown:
+  users:
+    - tcnghia@gmail.com
+    - 35786489+adrcunha@users.noreply.github.com
+    - leojames.googol@gmail.com
+    - 36011612+steuhs@users.noreply.github.com
+    - huangzhesi@gmail.com
+    - alex.glikson@gmail.com
+    - andyliuliming@outlook.com
+    - s@gsf.io
+    - vbatts@hashbangbash.com
+    - jopsen@gmail.com
+    - mohit@sdf.org
+    - anderm3@users.noreply.github.com
+    - zhujian@caicloud.io
+    - bruce.tanner@gmail.com
